@@ -27,7 +27,7 @@ while True:
         break
 
     if choice != "1":
-        print("Invalid choice!")
+        print("\nInvalid choice!")
         continue
 
     word = input("\nWord: ")
